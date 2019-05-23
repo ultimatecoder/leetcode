@@ -1,6 +1,6 @@
 # [LeetCode][leetcode]
 
-![LeetCodeLogo](assests/images/leetcode_logo.png)
+![LeetCodeLogo](assets/images/leetcode_logo.png)
 
 
 ## Description
