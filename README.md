@@ -10,6 +10,8 @@ This repository is a collection of solutions for [LeetCode][leetcode] problems.
 
 ## Dependencies
 
+* [Pipenv][pipenv]
+
 ### End to End test
 
 * [RubyGem][rubygem]
@@ -19,6 +21,19 @@ This repository is a collection of solutions for [LeetCode][leetcode] problems.
 
 
 ## Build
+
+### Solutions
+
+```pipenv shell```
+
+This command will create and activate a virtualenvironment wrapper. Make sure
+[Pipenv][pipenv] tool is installed.
+
+```pipenv install```
+
+This command will install all the expected Python dependencies. Make sure the
+virtualenvironment is already activated.
+
 
 ### Testing
 
@@ -42,3 +57,4 @@ build step for End to end tests.
 [leetcode]: https://leetcode.com
 [cucumber]: https://cucumber.io
 [aruba]: https://app.cucumber.pro/projects/aruba
+[pipenv]: https://pipenv.readthedocs.io/en/latest/
