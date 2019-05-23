@@ -6,83 +6,20 @@
 ## Description
 
 This repository is a collection of solutions for [LeetCode][leetcode] problems.
+Follow [build instructions][build_instructions] to make the build of the
+project. You can read detailed descriptions of utility commands to manage the
+statements [here][command_description]
 
 
-## Dependencies
+## Problems
 
-* [Pipenv][pipenv]
-
-### Test
-
-#### Type checker
-
-* [Mypy][mypy]
-
-#### Unit
-
-* [Pytest][pytest]
-
-#### End to End
-
-* [RubyGem][rubygem]
-* [Bundler][bundler]
-* [Cucumber][cucumber]
-* [Aruba][aruba]
-
-
-## Build
-
-### Solutions
-
-```pipenv shell```
-
-This command will create and activate a virtualenvironment wrapper. Make sure
-[Pipenv][pipenv] tool is installed.
-
-``` pipenv install ```
-
-This command will install all the expected Python dependencies. Make sure the
-virtualenvironment is already activated.
-
-
-### Testing
-
-#### Static Type checker
-
-
-#### End to End test
-
-``` bundle ```
-
-This command will install the [Cucumber][cucumber] and [Aruba][aruba]
-dependencies. Make sure [RubyGem][rubygem] and [Bundler][bundler] are installed.
-
-
-## Commands
-
-
-``` make end-to-end-test ```
-
-This command will run all the end to end tests. Make sure you have performed the
-build step for End to end tests.
-
-``` make lint ```
-
-Performs multiple checks. First it runs a static type checker [Mypy][mypy] which
-will perform the type checking for given code. Make sure the [Mypy][mypy] is
-installed.
-
-``` make unit-test ```
-
-It will run all the unit tests for existing solutions. Make sure
-[Pytest][pytest] is already installed.
+| Number        | Problem                             | Difficulty | Solution               |
+|:-------------:|:-----------------------------------:|:----------:|:----------------------:|
+| 905           | [Sort Array By Parity][905_problem] |  Easy      | [Python][905_solution] |
 
 
 [leetcode]: https://leetcode.com
-[cucumber]: https://cucumber.io
-[aruba]: https://app.cucumber.pro/projects/aruba
-[rubygem]: https://rubygems.org/
-[pipenv]: https://pipenv.readthedocs.io/en/latest/
-[bundler]: https://bundler.io/
-[mypy]: http://mypy-lang.org/
-[pytest]: pytest.org
+[905_problem]: https://leetcode.com/problems/sort-array-by-parity/
+[905_solution]: solutions/arrays/sort_array_by_parity.py
+[build_instructions]: docs/BUILD.md
+[command_description]: docs/COMMANDS.md
