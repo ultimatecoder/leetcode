@@ -18,6 +18,10 @@ This repository is a collection of solutions for [LeetCode][leetcode] problems.
 
 * [Mypy][mypy]
 
+#### Unit
+
+* [Pytest][pytest]
+
 #### End to End
 
 * [RubyGem][rubygem]
@@ -68,6 +72,11 @@ Performs multiple checks. First it runs a static type checker [Mypy][mypy] which
 will perform the type checking for given code. Make sure the [Mypy][mypy] is
 installed.
 
+``` make unit-test ```
+
+It will run all the unit tests for existing solutions. Make sure
+[Pytest][pytest] is already installed.
+
 
 [leetcode]: https://leetcode.com
 [cucumber]: https://cucumber.io
@@ -76,3 +85,4 @@ installed.
 [pipenv]: https://pipenv.readthedocs.io/en/latest/
 [bundler]: https://bundler.io/
 [mypy]: http://mypy-lang.org/
+[pytest]: pytest.org

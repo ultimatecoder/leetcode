@@ -1,3 +1,5 @@
+unit-test:
+	pytest
 end-to-end-test:
 	cucumber
 lint:
