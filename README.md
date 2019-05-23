@@ -12,7 +12,13 @@ This repository is a collection of solutions for [LeetCode][leetcode] problems.
 
 * [Pipenv][pipenv]
 
-### End to End test
+### Test
+
+#### Type checker
+
+* [Mypy][mypy]
+
+#### End to End
 
 * [RubyGem][rubygem]
 * [Bundler][bundler]
@@ -37,6 +43,9 @@ virtualenvironment is already activated.
 
 ### Testing
 
+#### Static Type checker
+
+
 #### End to End test
 
 ``` bundle ```
@@ -53,6 +62,12 @@ dependencies. Make sure [RubyGem][rubygem] and [Bundler][bundler] are installed.
 This command will run all the end to end tests. Make sure you have performed the
 build step for End to end tests.
 
+``` make lint ```
+
+Performs multiple checks. First it runs a static type checker [Mypy][mypy] which
+will perform the type checking for given code. Make sure the [Mypy][mypy] is
+installed.
+
 
 [leetcode]: https://leetcode.com
 [cucumber]: https://cucumber.io
@@ -60,3 +75,4 @@ build step for End to end tests.
 [rubygem]: https://rubygems.org/
 [pipenv]: https://pipenv.readthedocs.io/en/latest/
 [bundler]: https://bundler.io/
+[mypy]: http://mypy-lang.org/
