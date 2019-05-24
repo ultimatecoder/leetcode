@@ -17,6 +17,7 @@ statements [here][command_description]
 |:-------------:|:---------------------------------------:|:----------:|:----------------------:|
 | 832           | [Flipping An Image][832_problem]        |  Easy      | [Python][832_solution] |
 | 905           | [Sort Array By Parity][905_problem]     |  Easy      | [Python][905_solution] |
+| 922           | [Sort Array by Parity II][922_problem]  |  Easy      | [Python][922_problem]  |
 | 977           | [Squares of a Sorted Array][977_problem]|  Easy      | [Python][977_solution] |
 
 
@@ -28,5 +29,7 @@ statements [here][command_description]
 [832_solution]: solutions/arrays/flipping_an_image.py
 [905_problem]: https://leetcode.com/problems/sort-array-by-parity/
 [905_solution]: solutions/arrays/sort_array_by_parity.py
+[922_problem]: https://leetcode.com/problems/sort-array-by-parity-ii/
+[922_solution]: solutions/arrays/sort_array_by_parity_ii.py
 [977_problem]: https://leetcode.com/problems/squares-of-a-sorted-array/
 [977_solution]: solutions/arrays/squares_of_a_sorted_array.py
