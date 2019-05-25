@@ -13,13 +13,14 @@ statements [here][command_description]
 
 ## Problems
 
-| Number        | Problem                                 | Difficulty | Solution               |
-|:-------------:|:---------------------------------------:|:----------:|:----------------------:|
-| 509           | [Fibonacci Number][509_problem]         |  Easy      | [Python][509_solution] |
-| 832           | [Flipping An Image][832_problem]        |  Easy      | [Python][832_solution] |
-| 905           | [Sort Array By Parity][905_problem]     |  Easy      | [Python][905_solution] |
-| 922           | [Sort Array by Parity II][922_problem]  |  Easy      | [Python][922_problem]  |
-| 977           | [Squares of a Sorted Array][977_problem]|  Easy      | [Python][977_solution] |
+| Number        | Problem                                        | Difficulty | Solution               |
+|:-------------:|:----------------------------------------------:|:----------:|:----------------------:|
+| 509           | [Fibonacci Number][509_problem]                |  Easy      | [Python][509_solution] |
+| 832           | [Flipping An Image][832_problem]               |  Easy      | [Python][832_solution] |
+| 905           | [Sort Array By Parity][905_problem]            |  Easy      | [Python][905_solution] |
+| 922           | [Sort Array by Parity II][922_problem]         |  Easy      | [Python][922_problem]  |
+| 950           | [Reveal Cards In Increasing Order][950_problem]|  Medium    | [Python][950_solution] |
+| 977           | [Squares of a Sorted Array][977_problem]       |  Easy      | [Python][977_solution] |
 
 
 
@@ -34,5 +35,7 @@ statements [here][command_description]
 [905_solution]: solutions/arrays/sort_array_by_parity.py
 [922_problem]: https://leetcode.com/problems/sort-array-by-parity-ii/
 [922_solution]: solutions/arrays/sort_array_by_parity_ii.py
+[950_problem]: https://leetcode.com/problems/reveal-cards-in-increasing-order/
+[950_solution]: solutions/arrays/reveal_cards_in_increasing_order.py
 [977_problem]: https://leetcode.com/problems/squares-of-a-sorted-array/
 [977_solution]: solutions/arrays/squares_of_a_sorted_array.py
