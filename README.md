@@ -1,4 +1,4 @@
-# [LeetCode][leetcode]
+# [LeetCode][leetcode] 🔥
 
 ![LeetCodeLogo](assets/images/leetcode_logo.png)
 
