@@ -16,6 +16,7 @@ statements [here][command_description]
 | Number        | Problem                                        | Difficulty | Solution               |
 |:-------------:|:----------------------------------------------:|:----------:|:----------------------:|
 | 104           | [Maximum Depth of Binary Tree][104_problem]    |  Easy      | [Python][104_solution] |
+| 257           | [Binary Tree Paths][257_problem]               |  Easy      | [Python][257_solution] |
 | 509           | [Fibonacci Number][509_problem]                |  Easy      | [Python][509_solution] |
 | 832           | [Flipping An Image][832_problem]               |  Easy      | [Python][832_solution] |
 | 905           | [Sort Array By Parity][905_problem]            |  Easy      | [Python][905_solution] |
@@ -30,6 +31,8 @@ statements [here][command_description]
 [command_description]: docs/COMMANDS.md
 [104_problem]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [104_solution]: solutions/trees/maximum_depth_of_binary_tree.py
+[257_problem]: https://leetcode.com/problems/binary-tree-paths/
+[257_solution]: solutions/trees/binary_tree_paths.py
 [509_problem]: https://leetcode.com/problems/fibonacci-number/
 [509_solution]: solutions/arrays/fibonacci_number.py
 [832_problem]: https://leetcode.com/problems/flipping-an-image/
