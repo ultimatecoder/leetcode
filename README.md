@@ -16,6 +16,7 @@ statements [here][command_description]
 | Number        | Problem                                            | Difficulty | Solution               |
 |:-------------:|:--------------------------------------------------:|:----------:|:----------------------:|
 | 75            | [Sort Colors][75_problem]                          |  Medium    | [Python][75_solution]  |
+| 102           | [Binary Tree Level Order Traversal][102_problem]   |  Medium    | [Python][102_solution] |
 | 104           | [Maximum Depth of Binary Tree][104_problem]        |  Easy      | [Python][104_solution] |
 | 257           | [Binary Tree Paths][257_problem]                   |  Easy      | [Python][257_solution] |
 | 509           | [Fibonacci Number][509_problem]                    |  Easy      | [Python][509_solution] |
@@ -34,6 +35,8 @@ statements [here][command_description]
 [command_description]: docs/COMMANDS.md
 [75_problem]: https://leetcode.com/problems/sort-colors/
 [75_solution]: solutions/arrays/sort_colors.py
+[102_problem]: https://leetcode.com/problems/binary-tree-level-order-traversal/
+[102_solution]: solutions/trees/binary_tree_level_order_traversal.py
 [104_problem]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [104_solution]: solutions/trees/maximum_depth_of_binary_tree.py
 [257_problem]: https://leetcode.com/problems/binary-tree-paths/
