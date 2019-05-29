@@ -15,6 +15,7 @@ statements [here][command_description]
 
 | Number        | Problem                                            | Difficulty | Solution               |
 |:-------------:|:--------------------------------------------------:|:----------:|:----------------------:|
+| 20            | [Valid Parentheses][20_problem]                    |  Easy      | [Python][20_solution]  |
 | 75            | [Sort Colors][75_problem]                          |  Medium    | [Python][75_solution]  |
 | 102           | [Binary Tree Level Order Traversal][102_problem]   |  Medium    | [Python][102_solution] |
 | 104           | [Maximum Depth of Binary Tree][104_problem]        |  Easy      | [Python][104_solution] |
@@ -33,6 +34,8 @@ statements [here][command_description]
 [leetcode]: https://leetcode.com
 [build_instructions]: docs/BUILD.md
 [command_description]: docs/COMMANDS.md
+[20_problem]: https://leetcode.com/problems/valid-parentheses/
+[20_solution]: solutions/stacks/valid_parentheses.py
 [75_problem]: https://leetcode.com/problems/sort-colors/
 [75_solution]: solutions/arrays/sort_colors.py
 [102_problem]: https://leetcode.com/problems/binary-tree-level-order-traversal/
