@@ -17,6 +17,7 @@ statements [here][command_description]
 |:-------------:|:--------------------------------------------------:|:----------:|:----------------------:|
 | 20            | [Valid Parentheses][20_problem]                    |  Easy      | [Python][20_solution]  |
 | 75            | [Sort Colors][75_problem]                          |  Medium    | [Python][75_solution]  |
+| 77            | [Combinations][77_problem]                         |  Medium    | [Python][77_solution]  |
 | 102           | [Binary Tree Level Order Traversal][102_problem]   |  Medium    | [Python][102_solution] |
 | 104           | [Maximum Depth of Binary Tree][104_problem]        |  Easy      | [Python][104_solution] |
 | 257           | [Binary Tree Paths][257_problem]                   |  Easy      | [Python][257_solution] |
@@ -38,6 +39,8 @@ statements [here][command_description]
 [20_solution]: solutions/stacks/valid_parentheses.py
 [75_problem]: https://leetcode.com/problems/sort-colors/
 [75_solution]: solutions/arrays/sort_colors.py
+[77_problem]: https://leetcode.com/problems/combinations/
+[77_solution]: solutions/backtracking/combinations.py
 [102_problem]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [102_solution]: solutions/trees/binary_tree_level_order_traversal.py
 [104_problem]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
