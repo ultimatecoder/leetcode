@@ -16,6 +16,7 @@ statements [here][command_description]
 | Number        | Problem                                            | Difficulty | Solution               |
 |:-------------:|:--------------------------------------------------:|:----------:|:----------------------:|
 | 20            | [Valid Parentheses][20_problem]                    |  Easy      | [Python][20_solution]  |
+| 40            | [Combination Sum II][40_problem]                   |  Medium    | [Python][40_solution]  |
 | 75            | [Sort Colors][75_problem]                          |  Medium    | [Python][75_solution]  |
 | 77            | [Combinations][77_problem]                         |  Medium    | [Python][77_solution]  |
 | 102           | [Binary Tree Level Order Traversal][102_problem]   |  Medium    | [Python][102_solution] |
@@ -37,6 +38,8 @@ statements [here][command_description]
 [command_description]: docs/COMMANDS.md
 [20_problem]: https://leetcode.com/problems/valid-parentheses/
 [20_solution]: solutions/stacks/valid_parentheses.py
+[40_problem]: https://leetcode.com/problems/combination-sum-ii/
+[40_solution]: solutions/backtracking/combination_sum_ii.py
 [75_problem]: https://leetcode.com/problems/sort-colors/
 [75_solution]: solutions/arrays/sort_colors.py
 [77_problem]: https://leetcode.com/problems/combinations/
