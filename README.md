@@ -13,29 +13,32 @@ statements [here][command_description]
 
 ## Problems
 
-| Number        | Problem                                            | Difficulty | Solution               |
-|:-------------:|:--------------------------------------------------:|:----------:|:----------------------:|
-| 20            | [Valid Parentheses][20_problem]                    |  Easy      | [Python][20_solution]  |
-| 40            | [Combination Sum II][40_problem]                   |  Medium    | [Python][40_solution]  |
-| 75            | [Sort Colors][75_problem]                          |  Medium    | [Python][75_solution]  |
-| 77            | [Combinations][77_problem]                         |  Medium    | [Python][77_solution]  |
-| 102           | [Binary Tree Level Order Traversal][102_problem]   |  Medium    | [Python][102_solution] |
-| 104           | [Maximum Depth of Binary Tree][104_problem]        |  Easy      | [Python][104_solution] |
-| 257           | [Binary Tree Paths][257_problem]                   |  Easy      | [Python][257_solution] |
-| 509           | [Fibonacci Number][509_problem]                    |  Easy      | [Python][509_solution] |
-| 559           | [Maximum Depth of N-ary Tree][559_problem]         |  Easy      | [Python][559_solution] |
-| 832           | [Flipping An Image][832_problem]                   |  Easy      | [Python][832_solution] |
-| 905           | [Sort Array By Parity][905_problem]                |  Easy      | [Python][905_solution] |
-| 922           | [Sort Array by Parity II][922_problem]             |  Easy      | [Python][922_solution] |
-| 950           | [Reveal Cards In Increasing Order][950_problem]    |  Medium    | [Python][950_solution] |
-| 977           | [Squares of a Sorted Array][977_problem]           |  Easy      | [Python][977_solution] |
-| 1022          | [Sum of Root To Leaf Binary Numbers][1022_problem] |  Easy      | [Python][1022_solution]|
+| Number        | Problem                                             | Difficulty | Solution               |
+|:-------------:|:---------------------------------------------------:|:----------:|:----------------------:|
+| 17            | [Letter Combinations of a Phone Number][17_problem] |  Medium    | [Python][17_solution] |
+| 20            | [Valid Parentheses][20_problem]                     |  Easy      | [Python][20_solution]  |
+| 40            | [Combination Sum II][40_problem]                    |  Medium    | [Python][40_solution]  |
+| 75            | [Sort Colors][75_problem]                           |  Medium    | [Python][75_solution]  |
+| 77            | [Combinations][77_problem]                          |  Medium    | [Python][77_solution]  |
+| 102           | [Binary Tree Level Order Traversal][102_problem]    |  Medium    | [Python][102_solution] |
+| 104           | [Maximum Depth of Binary Tree][104_problem]         |  Easy      | [Python][104_solution] |
+| 257           | [Binary Tree Paths][257_problem]                    |  Easy      | [Python][257_solution] |
+| 509           | [Fibonacci Number][509_problem]                     |  Easy      | [Python][509_solution] |
+| 559           | [Maximum Depth of N-ary Tree][559_problem]          |  Easy      | [Python][559_solution] |
+| 832           | [Flipping An Image][832_problem]                    |  Easy      | [Python][832_solution] |
+| 905           | [Sort Array By Parity][905_problem]                 |  Easy      | [Python][905_solution] |
+| 922           | [Sort Array by Parity II][922_problem]              |  Easy      | [Python][922_solution] |
+| 950           | [Reveal Cards In Increasing Order][950_problem]     |  Medium    | [Python][950_solution] |
+| 977           | [Squares of a Sorted Array][977_problem]            |  Easy      | [Python][977_solution] |
+| 1022          | [Sum of Root To Leaf Binary Numbers][1022_problem]  |  Easy      | [Python][1022_solution]|
 
 
 
 [leetcode]: https://leetcode.com
 [build_instructions]: docs/BUILD.md
 [command_description]: docs/COMMANDS.md
+[17_problem]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[17_solution]: solutions/backtracking/letter_combinations_of_a_phone_number.py
 [20_problem]: https://leetcode.com/problems/valid-parentheses/
 [20_solution]: solutions/stacks/valid_parentheses.py
 [40_problem]: https://leetcode.com/problems/combination-sum-ii/
