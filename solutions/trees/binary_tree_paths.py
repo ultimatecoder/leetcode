@@ -40,7 +40,7 @@ class Node:
         return f"<Node {self.value}>"
 
 
-def binary_tree_paths(root: Node=None) -> List[str]:
+def binary_tree_paths(root: Node) -> List[str]:
     """Finds all paths from root to a leaf nodes
 
     Example:
@@ -54,7 +54,7 @@ def binary_tree_paths(root: Node=None) -> List[str]:
 
           5
     """
-    paths = []
+    paths: List = []
 
     if root.left is None and root.right is None:
         return [str(root.value)]
