@@ -15,8 +15,9 @@ statements [here][command_description]
 
 | Number        | Problem                                             | Difficulty | Solution               |
 |:-------------:|:---------------------------------------------------:|:----------:|:----------------------:|
-| 17            | [Letter Combinations of a Phone Number][17_problem] |  Medium    | [Python][17_solution] |
+| 17            | [Letter Combinations of a Phone Number][17_problem] |  Medium    | [Python][17_solution]  |
 | 20            | [Valid Parentheses][20_problem]                     |  Easy      | [Python][20_solution]  |
+| 39            | [Combination Sum][39_problem]                       |  Medium    | [Python][39_solution]  |
 | 40            | [Combination Sum II][40_problem]                    |  Medium    | [Python][40_solution]  |
 | 75            | [Sort Colors][75_problem]                           |  Medium    | [Python][75_solution]  |
 | 77            | [Combinations][77_problem]                          |  Medium    | [Python][77_solution]  |
@@ -42,6 +43,8 @@ statements [here][command_description]
 [17_solution]: solutions/backtracking/letter_combinations_of_a_phone_number.py
 [20_problem]: https://leetcode.com/problems/valid-parentheses/
 [20_solution]: solutions/stacks/valid_parentheses.py
+[39_problem]: https://leetcode.com/problems/combination-sum/
+[39_solution]: solutions/backtracking/combination_sum.py
 [40_problem]: https://leetcode.com/problems/combination-sum-ii/
 [40_solution]: solutions/backtracking/combination_sum_ii.py
 [75_problem]: https://leetcode.com/problems/sort-colors/
