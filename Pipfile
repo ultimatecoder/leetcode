@@ -13,3 +13,4 @@ pytest = "*"
 
 [dev-packages]
 
+"flake8" = "*"
