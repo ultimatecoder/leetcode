@@ -1,3 +1,6 @@
+![CIStatus](https://travis-ci.org/ultimatecoder/leetcode.svg?branch=master)
+
+
 # [LeetCode][leetcode] 🔥
 
 ![LeetCodeLogo](assets/images/leetcode_logo.png)
