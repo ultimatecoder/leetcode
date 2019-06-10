@@ -7,10 +7,10 @@ name = "pypi"
 
 [packages]
 
-mypy = "*"
-pytest = "*"
 
 
 [dev-packages]
 
 "flake8" = "*"
+mypy = "*"
+pytest = "*"
