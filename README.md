@@ -26,6 +26,7 @@ statements [here][command_description]
 | 77            | [Combinations][77_problem]                          |  Medium    | [Python][77_solution]  |
 | 102           | [Binary Tree Level Order Traversal][102_problem]    |  Medium    | [Python][102_solution] |
 | 104           | [Maximum Depth of Binary Tree][104_problem]         |  Easy      | [Python][104_solution] |
+| 150           | [Evaluate Reverse Polish Notation][150_problem]     |  Medium    | [Python][150_solution] |
 | 200           | [Number of Islands][200_problem]                    |  Medium    | [Python][200_solution] |
 | 257           | [Binary Tree Paths][257_problem]                    |  Easy      | [Python][257_solution] |
 | 509           | [Fibonacci Number][509_problem]                     |  Easy      | [Python][509_solution] |
@@ -60,6 +61,8 @@ statements [here][command_description]
 [102_solution]: solutions/trees/binary_tree_level_order_traversal.py
 [104_problem]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [104_solution]: solutions/trees/maximum_depth_of_binary_tree.py
+[150_problem]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+[150_solution]: solutions/stacks/evaluate_reverse_polish_notation.py
 [200_problem]: https://leetcode.com/problems/number-of-islands/
 [200_solution]: solutions/searching/number_of_islands.py
 [257_problem]: https://leetcode.com/problems/binary-tree-paths/
