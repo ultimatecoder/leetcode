@@ -31,6 +31,7 @@ statements [here][command_description]
 | 257           | [Binary Tree Paths][257_problem]                    |  Easy      | [Python][257_solution] |
 | 509           | [Fibonacci Number][509_problem]                     |  Easy      | [Python][509_solution] |
 | 559           | [Maximum Depth of N-ary Tree][559_problem]          |  Easy      | [Python][559_solution] |
+| 703           | [Kth Largest Element in a Stream][703_problem]      |  Easy      | [Python][703_solution] |
 | 733           | [Flood Fill][733_problem]                           |  Easy      | [Python][733_solution] |
 | 743           | [Network Delay Time][743_problem]                   |  Medium    | [Python][743_solution] |
 | 832           | [Flipping An Image][832_problem]                    |  Easy      | [Python][832_solution] |
@@ -71,6 +72,8 @@ statements [here][command_description]
 [509_solution]: solutions/arrays/fibonacci_number.py
 [559_problem]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 [559_solution]: solutions/trees/maximum_depth_of_n_ary_tree.py
+[703_problem]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+[703_solution]: solutions/heaps/kth_largest_element_in_a_stream.py
 [733_problem]: https://leetcode.com/problems/flood-fill/
 [733_solution]: solutions/searching/flood_fill.py
 [743_problem]: https://leetcode.com/problems/network-delay-time/
