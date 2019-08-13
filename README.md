@@ -35,6 +35,7 @@ statements [here][command_description]
 | 703           | [Kth Largest Element in a Stream][703_problem]      |  Easy      | [Python][703_solution] |
 | 733           | [Flood Fill][733_problem]                           |  Easy      | [Python][733_solution] |
 | 743           | [Network Delay Time][743_problem]                   |  Medium    | [Python][743_solution] |
+| 746           | [Min Cost Climbing Stairs][746_problem]             |  Easy      | [Python][746_solution] |
 | 832           | [Flipping An Image][832_problem]                    |  Easy      | [Python][832_solution] |
 | 905           | [Sort Array By Parity][905_problem]                 |  Easy      | [Python][905_solution] |
 | 922           | [Sort Array by Parity II][922_problem]              |  Easy      | [Python][922_solution] |
@@ -81,6 +82,8 @@ statements [here][command_description]
 [733_solution]: solutions/searching/flood_fill.py
 [743_problem]: https://leetcode.com/problems/network-delay-time/
 [743_solution]: solutions/graphs/network_delay_time.py
+[746_problem]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[746_solution]: solutions/dynamic_programming/mini_cost_climbing_stairs.py
 [832_problem]: https://leetcode.com/problems/flipping-an-image/
 [832_solution]: solutions/arrays/flipping_an_image.py
 [905_problem]: https://leetcode.com/problems/sort-array-by-parity/
