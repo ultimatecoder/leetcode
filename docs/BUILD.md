@@ -31,10 +31,13 @@
 This command will create and activate a virtualenvironment wrapper. Make sure
 [Pipenv][pipenv] tool is installed.
 
-``` pipenv install ```
 
-This command will install all the expected Python dependencies. Make sure the
-virtualenvironment is already activated.
+``` pipenv install --dev ```
+
+This command will install required developer level dependencies. If your intent
+is to run existing solutions then you are not required to perform this step.
+This command is required if you want to run unit tests or verify that existing
+code is bug free.
 
 
 ### Testing
